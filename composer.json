@@ -1,0 +1,8 @@
+{
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "phpunit/php-timer": "^2.0",
+        "guzzlehttp/psr7": "^1.5",
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
